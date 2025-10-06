@@ -2,10 +2,10 @@
 
 <img width="1280" height="720" alt="SQL_Thumbnail (36)" src="https://github.com/user-attachments/assets/b405207e-084f-4e83-ae2e-a6b7d5cd6627" />
 
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/e99ecb8e-d4d4-4d58-a8f2-222427848274" />
+
 💡 Ever wondered if Artificial Intelligence can detect COVID-19 just from a chest X-ray? 🩻
 In this video, I’ll show you how I built a COVID-19 X-Ray Image Classifier using Python, TensorFlow, and Computer Vision — a complete AI project that predicts infections from medical images. 🧠🔥
-
-<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/e99ecb8e-d4d4-4d58-a8f2-222427848274" />
 
 We’ll go step by step:
 ✅ Loading and preprocessing X-ray image datasets
